@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat AJVDEC</title>
+    <link rel="icon" type="image/png" href="assets/images/togo_icone.png">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <h1>
+        Bienvenue sur Chat AJVDEC 
+    </h1>
+    <h2 id="statut">STATUT : </h2>
+    <button id="btn_inscription" onclick="window.location.href='inscription.html'">Inscription</button>
+    <button id="btn_connexion" onclick="window.location.href='connexion.html'">Connexion</button>
+    <div id="chat-container" class="chat-container">
+        <div id="messages-container" class="messages-container">
+            <!-- Les messages s'affichent ici -->
+        </div>
+        <div class="message-form">
+            <input type="text" id="message-input" class="message-input" placeholder="Tapez votre message ici..." maxlength="1000">
+            <button id="send-button" class="send-button">Envoyer</button>
+        </div>
+    </div>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
