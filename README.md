@@ -48,7 +48,8 @@ npm start
 
 ## 🌐 Déploiement
 
-L'application est prête pour être déployée sur Render.com avec PostgreSQL.
+L'application est prête pour être déployée sur Render.com avec PostgreSQL. Vous pouvez vous rendre sur cette adresse : https://chat-ajvdec.onrender.com/ jusqu'au 13 aout 2025 qui est la date de fermeture du site internet.
+<img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/32a41781-75f2-4446-abf6-c46e05836f60" />
 
 ## 👥 Auteur
 
