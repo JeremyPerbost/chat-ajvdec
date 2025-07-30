@@ -2,6 +2,8 @@
 
 Projet de création d'un chat en ligne avec Node.js, Express et PostgreSQL.
 
+Objectif de ce projet : meilleur compréhension de Nodejs, de express et des JWT afin de pouvoir travailler plus spécifiquement sur l'application carnet de santé virtuel.
+
 ## 🚀 Fonctionnalités
 
 - ✅ Inscription et connexion des utilisateurs
